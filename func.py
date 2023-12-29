@@ -1,0 +1,2 @@
+def funtion():
+    return None
