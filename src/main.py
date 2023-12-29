@@ -1,1 +1,1 @@
-12345
+print('Hello world')
